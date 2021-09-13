@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+    background: url("img/background.webp");
+    font-family: Tahoma;
+    line-height: 1.5;
+    font-size: 18px; 
+}
+
+.card {
+    width: 400px;
+    margin: 30px auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 5px 10px #ccc;
+    border-radius: 10px;
+}
+
+.card-img {
+    display: block;
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+
+}
+
+.card-title {
+    font-size: 30px;
+    text-align: center;
+
+}
+
+.card-text {
+    font-size: 15px;
+
+}
+
+.card-subtitle {
+    font-size: 20px;
+
+}
+
+.card-list {
+    padding-left: 0;
+    list-style-position: inside;
+    font-size: 15px;
+}
